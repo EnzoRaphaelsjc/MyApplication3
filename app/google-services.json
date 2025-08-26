@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1066327110717",
+    "firebase_url": "https://projeto-bruno-dbec2-default-rtdb.firebaseio.com",
+    "project_id": "projeto-bruno-dbec2",
+    "storage_bucket": "projeto-bruno-dbec2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066327110717:android:769c075f75046c69b36654",
+        "android_client_info": {
+          "package_name": "com.example.a3_projeto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ybl7FH5P9ej0o6j4ayclK8mJlFT8ukA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066327110717:android:761643115458c7f4b36654",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ybl7FH5P9ej0o6j4ayclK8mJlFT8ukA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066327110717:android:b88d9651ebb0c3c0b36654",
+        "android_client_info": {
+          "package_name": "com.example.projeto_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ybl7FH5P9ej0o6j4ayclK8mJlFT8ukA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
